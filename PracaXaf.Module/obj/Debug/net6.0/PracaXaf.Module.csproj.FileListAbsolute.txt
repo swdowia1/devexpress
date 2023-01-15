@@ -1,0 +1,12 @@
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\bin\Debug\net6.0\PracaXaf.Module.deps.json
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\bin\Debug\net6.0\PracaXaf.Module.dll
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\bin\Debug\net6.0\PracaXaf.Module.pdb
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.csproj.AssemblyReference.cache
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.AssemblyInfoInputs.cache
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.AssemblyInfo.cs
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.csproj.CoreCompileInputs.cache
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.dll
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\refint\PracaXaf.Module.dll
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\PracaXaf.Module.pdb
+C:\dyskD\projekt\PracaXaf\PracaXaf.Module\obj\Debug\net6.0\ref\PracaXaf.Module.dll
