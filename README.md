@@ -7,7 +7,7 @@ Wykonałem zadanie, poniżej przedstawiam krótki opis:
 - dodano nowy kontroller aby dodać przycisk pobrania danych z GUS
 
 
-Wybrane technologii wybrałem ponieważ:
--testowalność
--możliwe zmiany w projekcie
--
+uruchomienie:
+- Przejść do katalogu PracaXaf.Blazor.Server
+- w cmd uruchomić dotnet run
+
